@@ -18,6 +18,10 @@ O Porto já tem muitos serviços digitais (Agenda Porto, Portal do Munícipe, Po
 - `fluxos/`: diagramas de fluxo por tipo de utilizador.
 - `mockups/`: ecrãs principais (mapa com metro e eventos, mapa com Tripeiros).
 
+## Fluxo de uso
+
+![Fluxo de uso](fluxos/fluxo.svg)
+
 ## Estado
 
 Conceito e protótipo de interface. Não há implementação funcional nem integração real com os sistemas existentes. As integrações (Agenda Porto, Metro/STCP, Chave Móvel Digital) estão **por validar**.
