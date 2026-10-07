@@ -24,4 +24,4 @@ Conceito e protótipo de interface. Não há implementação funcional nem integ
 
 ## Autores
 
-[Nome(s)] · [Docente] · [Ano letivo]
+[Marcelo Pinto] · [2026/2027]
