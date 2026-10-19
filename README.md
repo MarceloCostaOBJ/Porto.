@@ -20,7 +20,7 @@ O Porto já tem muitos serviços digitais (Agenda Porto, Portal do Munícipe, Po
 
 ## Fluxo de uso
 
-![Fluxo de uso](fluxos/fluxo.svg)
+![Fluxo de uso](scrath/fluxo.svg)
 
 ## Estado
 
