@@ -1,38 +1,38 @@
-# Porto: uma só app para viver a cidade
+# Porto: one app to live the city
 
-Projeto das cadeiras de **Computação Móvel** e **Conceção de Interfaces para Aplicações Móveis** (UMAIA).
+Project for the courses **Mobile Computing** (Computação Móvel) and **Interface Design for Mobile Applications** (Conceção de Interfaces para Aplicações Móveis), UMAIA.
 
-## Estrutura do repositório
+## Repository structure
 
-| Pasta | O que contém |
+| Folder | Contents |
 |---|---|
-| 📋 [`interview/`](interview/) | Guião de entrevista aos munícipes e as 6 entrevistas realizadas (SIM-01 a SIM-06) |
-| 📱 [`mockups/`](mockups/) | Ecrãs da app e diagramas de fluxo (Excalidraw + imagens) |
-| ✏️ [`scrath/`](scrath/) | Rascunhos e esboços iniciais (inclui o fluxo de uso) |
-| 📄 [`relatorio/`](relatorio/) | Relatório final do projeto |
-| 💻 [`src/`](src/) | Código-fonte da app (a desenvolver) |
+| 📋 [`interview/`](interview/) | Interview guide for Porto residents and the 6 interviews conducted (SIM-01 to SIM-06) |
+| 📱 [`mockups/`](mockups/) | App screens and flow diagrams (Excalidraw + images) |
+| ✏️ [`scratch/`](scratch/) | Early drafts and sketches (includes the user flow) |
+| 📄 [`report/`](report/) | Final project report |
+| 💻 [`src/`](src/) | App source code (in development) |
 
-Cada pasta tem o seu próprio `README.md` a explicar os ficheiros.
+Each folder has its own `README.md` describing its files.
 
-## Sobre
+## About
 
-O Porto já tem muitos serviços digitais (Agenda Porto, Portal do Munícipe, Porto.CARD, Metro, Águas e Energia), mas cada um funciona sozinho. Este projeto propõe uma app que **não os substitui**: junta-os numa única experiência, adaptada a cada utilizador. A mobilidade liga tudo: a app sabe onde precisas de estar e ajuda-te a chegar a tempo.
+Porto already has many digital services (Agenda Porto, Portal do Munícipe, Porto.CARD, Metro, Águas e Energia), but each one works on its own. This project proposes an app that **does not replace them**: it brings them together in a single experience, tailored to each user. Mobility ties everything together: the app knows where you need to be and helps you get there on time.
 
-## Utilizadores
+## Users
 
-- **Residente:** login com Chave Móvel Digital ou Cartão Municipal. Eventos, cartões digitais, serviços municipais e mobilidade.
-- **Não residente:** login com conta. Eventos, Porto.CARD e mobilidade.
-- **Tripeiros (amigos):** ver onde estão os amigos no mapa e os eventos a que vão.
-- **Comerciantes:** criar eventos e ofertas (pop-ups, workshops, happy hours).
+- **Resident:** login with Chave Móvel Digital or Municipal Card. Events, digital cards, municipal services and mobility.
+- **Non-resident:** login with an account. Events, Porto.CARD and mobility.
+- **Tripeiros (friends):** see where friends are on the map and which events they are going to.
+- **Merchants:** create events and offers (pop-ups, workshops, happy hours).
 
-## Fluxo de uso
+## User flow
 
-![Fluxo de uso](scrath/fluxo.svg)
+![User flow](scratch/user-flow.svg)
 
-## Estado
+## Status
 
-Conceito e protótipo de interface. Não há implementação funcional nem integração real com os sistemas existentes. As integrações (Agenda Porto, Metro/STCP, Chave Móvel Digital) estão **por validar**.
+Concept and interface prototype. There is no working implementation or real integration with existing systems yet. The integrations (Agenda Porto, Metro/STCP, Chave Móvel Digital) are **still to be validated**.
 
-## Autores
+## Authors
 
-[Marcelo Pinto] · [2026/2027]
+Marcelo Pinto · 2026/2027

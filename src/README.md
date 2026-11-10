@@ -1,3 +1,3 @@
-# Código-fonte
+# Source code
 
-Pasta para o código da app (a desenvolver).
+Folder for the app source code (in development).
