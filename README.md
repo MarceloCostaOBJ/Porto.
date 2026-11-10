@@ -6,11 +6,11 @@ Project for the courses **Mobile Computing** (Computação Móvel) and **Interfa
 
 | Folder | Contents |
 |---|---|
-| 📋 [`interview/`](interview/) | Interview guide for Porto residents and the 6 interviews conducted (SIM-01 to SIM-06) |
-| 📱 [`mockups/`](mockups/) | App screens and flow diagrams (Excalidraw + images) |
-| ✏️ [`scratch/`](scratch/) | Early drafts and sketches (includes the user flow) |
-| 📄 [`report/`](report/) | Final project report |
-| 💻 [`src/`](src/) | App source code (in development) |
+| [`interview/`](interview/) | Interview guide for Porto residents and the 6 interviews conducted (SIM-01 to SIM-06) |
+| [`mockups/`](mockups/) | App screens and flow diagrams (Excalidraw + images) |
+| [`scratch/`](scratch/) | Early drafts and sketches (includes the user flow) |
+| [`report/`](report/) | Final project report |
+| [`src/`](src/) | App source code (in development) |
 
 Each folder has its own `README.md` describing its files.
 
